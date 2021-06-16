@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008&count_private=true) -->
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008&show_icons=true&theme=algolia&count_private=true)
+
 
 
 Here are some ideas to get you started:
