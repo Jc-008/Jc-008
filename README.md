@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008&show_icons=true&theme=algolia&count_private=true)
+<!-- ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc-008&show_icons=true&theme=algolia&count_private=true)-->
+<!-- <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 # Frameworks
 ### JS Frameworks
